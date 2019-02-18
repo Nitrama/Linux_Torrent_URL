@@ -1,3 +1,3 @@
 import os,time
-time.sleep(10)
+time.sleep(30)
 os.system ("transmission-gtk")
